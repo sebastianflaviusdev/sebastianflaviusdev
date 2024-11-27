@@ -1,6 +1,5 @@
 - Hi, I'm Sebastian!
-- I am a budding Backend Web Developer.
-- My base language is Java, and I specialize in building applications using the Spring framework. I also have experience working with AWS.
+- Main language, Java, but also know Python, JS, and a alot of frameworks like Spring Boot, React...
 
 <!---
 sebastianflaviusdev/sebastianflaviusdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
